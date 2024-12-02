@@ -6,30 +6,6 @@ a img {
 a {
   text-decoration: none; 
 }
-
-footer {
-  display: flex;
-  justify-content: space-between; 
-  align-items: flex-start; 
-  padding: 20px;
-}
-
-#redes,
-#navegacao,
-#endereco{
-  flex: 1; /* Cada bloco ocupa espaço proporcionalmente */
-  padding: 10px;
-}
-
-footer p {
-  margin: 5px; 
-}
-
-footer img {
-  margin-right: 5px;
-}
-
-footer h3 {
-  margin-bottom: 10px;
-  font-size: 18px;
+.text-decoration-none{
+  text-decoration: none;
 }
